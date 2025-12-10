@@ -1413,3 +1413,18 @@ Entries:
         put in the outer suit storage slot. 
   id: 171
   time: '2025-12-10T18:47:04.0000000+00:00'
+- author: RedstonewolfX
+  changes:
+    - type: Add
+      message: >-
+        Medical Chemistry (Medichem) Goggles! Craftable like MedSec or MedDiag
+        HUDs. Combines the features of a Medical HUD and Chemical Analysis
+        Goggles.
+    - type: Add
+      message: >-
+        Medichem Glasses, craftable with Medichem Goggles, LV Cable, and
+        Sunglasses.
+    - type: Tweak
+      message: The Chief Medical Officer spawns with a free pair of Medichem Glasses.
+  id: 172
+  time: '2025-12-10T20:20:50.0000000+00:00'
