@@ -1,14 +1,14 @@
-<p align="center"> <img alt="Space Station 14" width="1500" height="843" src="https://github.com/ProjectOmu/OmuStation/blob/master/Resources/Textures/Logo/logo.png" /></p>
+<p align="center"> <img alt="Space Station 14" width="1500" height="843" src="https://github.com/ProjectDupe/DupeStation/blob/master/Resources/Textures/Logo/logo.png" /></p>
 
-This is a fork from [Omu Station](https://github.com/ProjectOmu/OmuStation), which is a fork of [Goob Station](https://github.com/Goob-Station/Goob-Station), a primary fork from [Space Station 14](https://github.com/space-wizards/space-station-14). To prevent people forking [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server this is the content pack for Omu Station.
+This is a fork from [Dupe Station](https://github.com/ProjectDupe/DupeStation), which is a fork of [Goob Station](https://github.com/Goob-Station/Goob-Station), a primary fork from [Space Station 14](https://github.com/space-wizards/space-station-14). To prevent people forking [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server this is the content pack for Dupe Station.
 
-Omu Station strives to be a fork focused on more roleplay-centric gameplay while still focusing on community. We intend to take more mechanics from other forks and build a place where everyone can enjoy and play a unique shift every round.
+Dupe Station strives to be a fork heavily focused on roleplay over gameplay while still focusing on community. We intend to take more mechanics from other forks, we wish to make a server where chaos does exist, but is moderate and allow people to still roleplay and not end the round 1 hour in because of a random Assistant/Graytider.
 
 If you want to host or create content for SS14, go to the [Space Station 14 repository](https://github.com/space-wizards/space-station-14) as it contains both RobustToolbox and the content pack for development of new content packs and is the base for your fork.
 
 ## Links
 
-#[Omu Station Discord Server](https://discord.gg/omustation) | [Omu Station Wiki](https://wiki.projectomu.org/) | [Omu Station Forums](https://forums.projectomu.org) | [Omu Station Patreon](www.patreon.com/cw/OMUStation) | Omu Station Docs (Soon™)
+#[Dupe Station Discord Server](https://discord.gg/745HN9bvBf) | [Dupe Station Wiki](WIP) | [Dupe Station Forums](WIP) | [Dupe Station Patreon](TBD) | Dupe Station Docs (TBD™)
 
 ## Documentation/Wiki
 
@@ -16,8 +16,8 @@ The Goob Station [docs site](https://docs.goobstation.com/) has documentation on
 
 ## Contributing
 
-We are happy to accept contributions from anybody. Get in [Discord Server](https://discord.gg/J5uqYJsrAb) if you want to help. Feel free to check the [list of issues](https://github.com/ProjectOmu/OmuStation/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!
-While following the [Space Station 14 contribution guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html) is not mandatory for Omu Station, we recommend reviewing them for best practices.
+We are happy to accept contributions from anybody. Get in [Discord Server](https://discord.gg/745HN9bvBf) if you want to help. Feel free to check the [list of issues](https://github.com/ProjectDupe/DupeStation/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!
+While following the [Space Station 14 contribution guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html) is not mandatory for Dupe Station, we recommend reviewing them for best practices.
 
 We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language consider creating a fork or contributing to a fork.
 
