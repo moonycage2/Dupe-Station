@@ -4,9 +4,9 @@
 # SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
-# Omu, replace Goobcoin with Eggs
-server-currency-name-singular = Eggs
-server-currency-name-plural = Eggs
+# Replace of Goobcoins with Dupes
+server-currency-name-singular = Dupes
+server-currency-name-plural = Dupes
 
 ## Commands
 
@@ -63,10 +63,10 @@ gs-balanceui-shop-footer = ⚠ Ahelp to use your token. Only 1 use per day.
 
 gs-balanceui-shop-token-label = Tokens
 gs-balanceui-shop-tittle-label = Titles
-# Omu, replace Goobcoin with Eggs
-gs-balanceui-shop-buy-token-antag = Buy an Antag Token - {$price} Eggs
-gs-balanceui-shop-buy-token-admin-abuse = Buy an Admin Abuse Token - {$price} Eggs
-gs-balanceui-shop-buy-token-hat = Buy a Hat Token - {$price} Eggs
+# Dupe, replace Goobcoin with Dupes
+gs-balanceui-shop-buy-token-antag = Buy an Antag Token - {$price} Dupes
+gs-balanceui-shop-buy-token-admin-abuse = Buy an Admin Abuse Token - {$price} Dupes
+gs-balanceui-shop-buy-token-hat = Buy a Hat Token - {$price} Dupes
 
 gs-balanceui-shop-token-antag = High Tier Antag Token
 gs-balanceui-shop-token-admin-abuse = Admin Abuse Token

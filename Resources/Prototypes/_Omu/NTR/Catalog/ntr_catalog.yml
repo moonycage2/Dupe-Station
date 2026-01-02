@@ -9,5 +9,5 @@
   - NTRpersonal
   restockTime: 0
   resetRestockOnPurchase: true
-  restockAfterPurchase: 300 #5 minutes so NTR can't spam them (Please dont make me add a stock limit, that would just be boring)
+  restockAfterPurchase: 120 #5 minutes so NTR can't spam them (Please dont make me add a stock limit, that would just be boring)
 

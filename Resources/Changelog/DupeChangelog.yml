@@ -1,0 +1,7 @@
+Name: Dupelog
+Order: -2
+Entries:
+- author: MoonyVR
+  changes:
+    - type: Add
+      message: Merged with upstream
